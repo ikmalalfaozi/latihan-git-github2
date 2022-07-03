@@ -1,1 +1,2 @@
 Ini adalah file main-feature 1 
+Tulisan ditulis di local repository
